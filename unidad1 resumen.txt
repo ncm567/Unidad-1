@@ -1,0 +1,10 @@
+
+Resumen de la Unidad1
+
+Sistema Binario: Es un sistema de numeración base 2, utilizando solo los dígitos 0 y 1, fundamental para el funcionamiento de los computadores.
+
+Lógica: Rama de la matemática que estudia los principios del razonamiento válido y la estructura de los argumentos.
+
+Programación: Proceso de diseñar e implementar instrucciones que una computadora puede ejecutar para realizar tareas específicas.
+
+Algoritmos: Conjunto de pasos o instrucciones definidos y ordenados que resuelven un problema específico o realizan una tarea.

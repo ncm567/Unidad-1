@@ -1,0 +1,5 @@
+Conceptos Básicos para Iniciar Programación: Incluyen el entendimiento de sintaxis, variables, y funciones, que son esenciales para escribir programas.
+
+Tipos de Datos: Categorías de datos que indican el tipo de valor que puede almacenar una variable, como enteros, flotantes, caracteres y booleanos.
+
+Estructuras de Control de Flujo: Permiten la ejecución condicional y repetitiva de bloques de código mediante estructuras como if, while y for.

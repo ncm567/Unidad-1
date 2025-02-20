@@ -1,0 +1,1 @@
+GitHub: Plataforma de colaboración y control de versiones basada en Git que permite a los desarrolladores almacenar, compartir y gestionar proyectos de software de manera eficiente.
